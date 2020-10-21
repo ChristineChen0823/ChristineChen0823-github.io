@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+}
+.card{
+  margin: 20px;
+  box-shadow: 4px 4px 12px 4px rgba(20%,20%,40%,0.5);
+}
+
+.jumbotron{
+  justify-content: center;
+  text-align:center;
+}
+
+.form-group{
+  margin: 20px;
+}
+
+.bottom{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+  height: 40px;
+  text-align: center;
+  color: #c7c7c7;
+  font-size: 12px;
+}
+
+.Btitle{
+  padding: 9px;
+}
+
+.nav-item{
+  display: flex;
+}
+
+.nav-link{
+    margin: 6px;
+}
+
+.lead{
+  line-height: 30px;
+}
+
+.d-block{ 
+  opacity: .8;
+}
+
+
+.btn-primary{
+ margin-left: 20px;
+}
+
+.modal-body{
+  font-size: 16px;
+}
+
+
+.photograph{
+  font-size: 50px;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 36%;
+  font-family: Objective,sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+}
